@@ -1,2 +1,0 @@
-# begin-svelt
-Begin app
