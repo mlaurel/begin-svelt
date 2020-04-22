@@ -6,7 +6,7 @@ exports.handler = async function http (req) {
       'cache-control': 'no-cache, no-store, must-revalidate, max-age=0, s-maxage=0'
     },
     body: JSON.stringify({
-      msg: 'Hello from Svelte + your Begin API!'
+      msg: 'All your Svelte and Begin API are belongs to us...'
     })
   }
 }
